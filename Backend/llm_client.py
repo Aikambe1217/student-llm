@@ -1,6 +1,6 @@
 import httpx
 
-from Backend.config import OLLAMA_URL, MODEL_NAME
+from config import OLLAMA_URL, MODEL_NAME
 
 
 # ---------------------------

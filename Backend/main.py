@@ -5,8 +5,8 @@ from pydantic import BaseModel
 import logging
 import datetime
 
-from Backend.llm_client import ask_llm
-from Backend.config import LOG_FILE
+from llm_client import ask_llm
+from config import LOG_FILE
 
 
 # ---------------------------
